@@ -48,7 +48,7 @@ streamlit run app.py
 ```
 
 ### Model Accuracies 
-```
+
 | Model              | No PCA | 5 Components | 10 Components | 20 Components |
 |--------------------|--------|--------------|---------------|---------------|
 | SVM                | 88.45% | 83.30%       | 86.30%        | 88.70%        |
@@ -56,5 +56,5 @@ streamlit run app.py
 | Decision Tree      | 83.80% | 77.60%       | 79.80%        | 80.65%        |
 | CatBoost           | 89.50% | *            | *             | *             |
 | Ensemble           | 90.00% | 85.00%       | 87.00%        | 89.00%        |
-```
 
+The pre-trained models are available in `models` folder.
