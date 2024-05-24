@@ -4,7 +4,7 @@
 
 This Streamlit application predicts Anti Microbial Peptides (AMPs) using multiple machine learning models and Principal Component Analysis (PCA) models. The app allows users to input a peptide sequence and returns predictions from various models, along with an ensemble prediction.
 
-## Features
+### Features
 
 - **User Input Sequence**: Enter a peptide sequence of length greater than 4.
 - **Extracted Features**: Displays the features extracted from the input sequence.
@@ -40,7 +40,7 @@ This Streamlit application predicts Anti Microbial Peptides (AMPs) using multipl
 4. Place the `Feature_Information.xlsx` file in the same directory as the script.
 
 
-## Usage
+### Usage
 
 Run the Streamlit app using the following command:
 ```bash
