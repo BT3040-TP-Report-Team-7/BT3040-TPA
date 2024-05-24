@@ -57,4 +57,4 @@ streamlit run app.py
 | CatBoost           | 89.50% | *            | *             | *             |
 | Ensemble           | 90.00% | 85.00%       | 87.00%        | 89.00%        |
 
-The pre-trained models are available in `models` folder.
+The pre-trained models are available in `models` folder. Training code is available in final_analysis.ipynb
