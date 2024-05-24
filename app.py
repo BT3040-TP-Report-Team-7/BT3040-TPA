@@ -68,7 +68,7 @@ def predict_ensemble(models, pca_models, features):
     return original_predictions, pca_predictions, ensemble_prediction
 
 # Streamlit app
-st.title("AMP Prediction App")
+st.title("AMP Prediction Tool")
 
 # Sidebar for user input
 st.sidebar.header("User Input Parameters")
