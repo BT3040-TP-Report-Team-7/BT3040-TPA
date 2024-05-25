@@ -19,7 +19,7 @@ This Application predicts Anti Microbial Peptides (AMPs) using multiple machine 
 - Required Python packages are listed in `requirements.txt`.
 
 ### Report 
-- For further details on Analysis and Feature Extraction, please refer to [Project Report](https://github.com/[YourName]/[YourRepo]/blob/main/report.pdf).
+- For further details on Analysis and Feature Extraction, please refer to [Project Report](https://github.com/BT3041-TP-Report-Team-7/BT3041-TPA-AMP/blob/main/report/BT3041_Group7_Report.pdf).
 ### Installation
 
 1. Clone the repository:
